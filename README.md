@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### 🌟 Aspiring Software Engineer | 💻 B.Tech CSE - Software Product Engineering 
 ### 🚀 Passionate about Web Dev for Social Good
 www.linkedin.com/in/suhani-garg-88a736318
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Building+the+future+with+AI+%26+Web+Dev;Turning+ideas+into+reality+💡;Let's+create+something+amazing!" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Suhani1234-5&label=Profile+Views&color=FF6B6B&style=for-the-badge)](https://github.com/Suhani1234-5)
@@ -38,7 +39,7 @@ www.linkedin.com/in/suhani-garg-88a736318
 🎯 **Currently Working On:** Capstone Project  
 🤝 **Open to Collaborate:** Tech for Social Good Projects  
 📚 **Exploring:** Ai, Scaling, and Realtime Systems  
-💬 **Ask me about:** MERN Stack, AI + Web Dev  
+💬 **Ask me about:** MERN Stack, Web Dev  
 📧 **Contact:** suhanigarg59@gmail.com
 ⚡ **Fun Fact:** I turn coffee into code and ideas into impact! ☕️
 
@@ -161,7 +162,7 @@ www.linkedin.com/in/suhani-garg-88a736318
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanigarg59@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suhani-garg-88a736318)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-garg-88a736318/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhani1234-5)
 
 </div>
