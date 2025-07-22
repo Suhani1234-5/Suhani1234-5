@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ### 🌟 Aspiring Software Engineer | 💻 B.Tech CSE - Software Product Engineering 
-### 🚀 Passionate about Web Dev & AI for Social Good
+### 🚀 Passionate about Web Dev for Social Good
 www.linkedin.com/in/suhani-garg-88a736318
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Building+the+future+with+AI+%26+Web+Dev;Turning+ideas+into+reality+💡;Let's+create+something+amazing!" alt="Typing SVG" />
 
